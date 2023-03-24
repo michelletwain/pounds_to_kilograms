@@ -31,7 +31,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![](https://github.com/michelletwain/pounds_to_kilograms/blob/master/proj4.gif)
 
 GIF created with ScreenToGif
 
